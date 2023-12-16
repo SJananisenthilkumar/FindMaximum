@@ -51,7 +51,7 @@ def max_marks(list1):
 ## Output:
 ![image](https://github.com/thejaswinidhanaraj/FindMaximum/assets/148514511/5978dd5f-8155-44d5-9bc4-e3c3a753f2c5)
 ![image](https://github.com/thejaswinidhanaraj/FindMaximum/assets/148514511/802e4b7a-2d66-4edc-bc8b-de4fdeb2222a)
-![image](https://github.com/thejaswinidhanaraj/FindMaximum/assets/148514511/afa333ba-923c-4dd7-b9c0-3f9a94a56ada)
+![image](https://github.com/thejaswinidhanaraj/FindMaximum/assets/148514511/bbb1427c-7a3b-40e4-91a2-b225f15bb263)
 
 
 
